@@ -1,2 +1,2 @@
-# informev
-primera etapa
+# informe
+ps1 
